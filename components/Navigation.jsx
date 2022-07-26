@@ -71,6 +71,7 @@ const Navigation = () => {
 											className="navbar-toggler"
 											id="navbar_global"
 										>
+											<i class="fa-solid fa-plus"></i>
 										</button>
 									</Col>
 								</Row>
